@@ -1,6 +1,7 @@
 ## Data Analyst & Analytics Engineer
 
 ## Read
+- [Let's 태블로, 쉽게 따라하는 데이터 시각화](https://product.kyobobook.co.kr/detail/S000201396699)
 - [데이터 분석가의 숫자유감: 만화로 배우는 업무 데이터 분석 상식](https://product.kyobobook.co.kr/detail/S000001984329)
 - [그로스 해킹: 데이터와 실험을 통해 성장하는 서비스를 만드는 방법](https://product.kyobobook.co.kr/detail/S000001766457)
 
